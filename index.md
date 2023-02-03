@@ -2,9 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Star Wars Survey
 
-[Project 1 Title](/sample_page)
+#[Project 1 Title](/sample_page)
+In this project, we explore the survey results on the Star Wars movie franchise by FiveThirtyEight.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
