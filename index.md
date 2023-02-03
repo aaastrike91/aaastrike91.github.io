@@ -2,9 +2,10 @@
 
 ---
 
-### Star Wars Survey
+### [Star Wars Survey](/projects/Project_8)
 
-#[Project 1 Title](/sample_page)
+<!--[Project 1 Title](/sample_page) -->
+<!-- Write your comments here -->
 In this project, we explore the survey results on the Star Wars movie franchise by FiveThirtyEight.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
