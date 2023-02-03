@@ -7,7 +7,7 @@
 <!--[Project 1 Title](/sample_page) -->
 <!-- Write your comments here -->
 In this project, we explore the survey results on the Star Wars movie franchise by FiveThirtyEight.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/starwars.png?raw=true"/>
 
 ---
 <!--[Project 2 Title](/pdf/sample_presentation.pdf)
