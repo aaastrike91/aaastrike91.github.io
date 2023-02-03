@@ -8,6 +8,7 @@
 <!-- Write your comments here -->
 In this project, we explore the survey results on the Star Wars movie franchise by FiveThirtyEight.
 <br>
+<br>
 <img src="images/starwars.png?raw=true"/>
 
 ---
