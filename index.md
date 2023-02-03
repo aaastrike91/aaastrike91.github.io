@@ -2,7 +2,7 @@
 
 ---
 
-### [Star Wars Survey](/projects/Project_8)
+### [Star Wars Survey](/projects/Project_8.html)
 
 <!--[Project 1 Title](/sample_page) -->
 <!-- Write your comments here -->
