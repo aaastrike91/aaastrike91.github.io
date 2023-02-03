@@ -11,8 +11,8 @@ In this project, we explore the survey results on the Star Wars movie franchise 
 <br>
 <img src="images/starwars.png?raw=true"/>
 
----
-<!--[Project 2 Title](/pdf/sample_presentation.pdf)
+<!---
+Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
