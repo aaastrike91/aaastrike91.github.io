@@ -2,6 +2,13 @@
 
 ---
 
+### [Predicting Bike Rentals](/projects/Predicting+Bike+Rentals.html)
+
+In this project, we predict the number of bikes being rented in Washingston D.C. at a given hour by different machine learning models. 
+<br>
+<br>
+<img src="images/rentedbikes.png?raw=true"/>
+
 ### [Star Wars Survey](/projects/Project_8.html)
 
 <!--[Project 1 Title](/sample_page) -->
